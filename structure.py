@@ -10,7 +10,7 @@ project_name = "AIDrugDiscovery"
 list_of_files = [
     f"src/{project_name}/__init__.py",
     f"src/{project_name}/components/__init__.py",
-        f"src/{project_name}/components/data_ingestion.py",
+    f"src/{project_name}/components/data_ingestion.py",
     f"src/{project_name}/components/data_preprocessing.py",
     f"src/{project_name}/components/model_training.py",
     f"src/{project_name}/components/model_evaluation.py",
@@ -29,7 +29,6 @@ list_of_files = [
     f"src/{project_name}/constants/__init__.py",
     "config/config.yaml",
     "dvc.yaml",
-    "main.py",
     "params.yaml",
     "requirements.txt",
     "pyproject.toml",
@@ -38,7 +37,7 @@ list_of_files = [
     "trials/notebook.ipynb",
     "fastapi_app.py",
     "Dockerfile",
-    "format.sh"
+    "format.sh",
 ]
 
 for filepath in list_of_files:
