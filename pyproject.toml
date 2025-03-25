@@ -1,0 +1,22 @@
+[build-system]
+# Minimum requirements and backend for building the package
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+# Project metadata
+name = "AIDrugDiscovery"  # Package name
+version = "0.0.0"  # Initial version
+description = "🔬 AI-Driven Drug Discovery App | ML-based drug-target interaction prediction."
+authors = [{ name = "Sanskar Modi", email = "sansyprog8@gmail.com" }]
+readme = "README.md"  # Path to the README file
+license = { text = "MIT License" }  # Project license
+dependencies = []  # Project dependencies
+
+[project.urls]
+# Additional project URLs
+"Bug Tracker" = "https://github.com/sanskarmodi8/ai_drug_discovery/issues"
+
+[tool.isort]
+# Configure isort to use Black's style
+profile = "black"

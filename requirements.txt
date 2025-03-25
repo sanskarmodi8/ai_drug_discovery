@@ -1,0 +1,33 @@
+# Core Libraries
+pandas
+numpy
+scikit-learn
+torch
+
+# FastAPI Backend
+fastapi
+uvicorn
+python-multipart
+
+# experiment tracking and pipeline versioning
+mlflow
+dvc
+
+# Utils
+joblib
+tqdm
+python-box
+pyYaml
+ensure
+gdown
+
+# working with jupyter notebooks
+jupyter
+notebook
+
+# code formatting
+black
+isort
+black[jupyter]
+
+-e .
