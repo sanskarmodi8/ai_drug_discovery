@@ -5,19 +5,19 @@ stages:
     deps:
     - path: config/config.yaml
       hash: md5
-      md5: 35f9d1e83c47bdb488226b5e4c628562
+      md5: 235851c42147b3a250821c03c163b128
       size: 246
     - path: src/AIDrugDiscovery/components/data_ingestion.py
       hash: md5
-      md5: 578e127ec831c7153acb8629a95ece82
-      size: 3122
+      md5: fa8e9016ee57db754d6c27f1954dfc9b
+      size: 3179
     - path: src/AIDrugDiscovery/pipeline/stage_01_data_ingestion.py
       hash: md5
-      md5: ecd0ae3936eae0855d3b24efc997ac11
-      size: 1101
+      md5: 56128f3dd57679692be72c8a51a9c145
+      size: 1095
     outs:
     - path: artifacts/data_ingestion/
       hash: md5
-      md5: 514d892d587a34135076a7181c0fb63f.dir
-      size: 6932430266
+      md5: db6169d7d70e6ac498ed90e7942b0ec9.dir
+      size: 772595913
       nfiles: 2

@@ -4,6 +4,15 @@ numpy
 scikit-learn
 torch
 
+# Data Visualization
+matplotlib
+seaborn
+
+# cheminformatics
+rdkit
+chembl_webresource_client
+tape-proteins
+
 # FastAPI Backend
 fastapi
 uvicorn

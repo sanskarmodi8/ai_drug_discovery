@@ -4,5 +4,5 @@ artifacts_root: artifacts
 
 data_ingestion:
   root_dir: artifacts/data_ingestion
-  source_url: https://drive.google.com/file/d/1kVc8jH6Lfs5VwbsiLXYH3STI0UX7tXi5/view?usp=sharing
+  source_url: https://drive.google.com/file/d/1ahjZWloMU3EyiUzTN6ppEXGDfdM7l9LC/view?usp=sharing
   unzip_dir: artifacts/data_ingestion/data
