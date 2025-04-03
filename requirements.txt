@@ -2,7 +2,8 @@
 pandas
 numpy
 scikit-learn
-torch
+DeepPurpose
+descriptastorus
 
 # Data Visualization
 matplotlib
@@ -11,7 +12,6 @@ seaborn
 # cheminformatics
 rdkit
 chembl_webresource_client
-tape-proteins
 
 # FastAPI Backend
 fastapi
